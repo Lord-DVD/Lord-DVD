@@ -1,52 +1,62 @@
-# Vatsal Desai
+<h1 align = "center"> Vatsal Desai </h1>
 
-## About Me
-I am an aspiring actuary with a knack for coding and enjoy learning about machine learning and its applications. I am a statistics major and a recent graduate who completed his graduation exams in May 2021 and am awaiting results. I look forward to being an actuarial data scientist in long term, and currently I am looking for entry-level positions in analytical roles where I can leverage my broad variety of interdisciplinary skills and gain experience in fields of consulting, insurance and risk management.
+Vatsal is an actuarial analyst working in MetLife’s Asset-Liability Management and Risk Reporting functions for its US region. He has passed two actuarial exams and he is member of three actuarial bodies, namely SOA, IFoA and IAI. He is proficient in Microsoft Excel and R, and has functional experience of Prophet, DCS, SQL, Python, PowerBI and Microsoft Azure Synapse. He has done his undergrad in Statistics and he is keen on learning about applications of machine learning in actuarial domain.
 
-## Projects
+<h2 align = "center"> Experiences </h2>
 
-+ ### Bird identifier (RShiny webapp)
+### MetLife (Aug 2021 - Present)
+#### Actuarial Analyst - Asset Liability Management
++ Optimized a multiple regression based tool using R to predict credit spreads of Fixed Maturity Assets to better report AOCI in balance sheet and provide a baseline for reporting income and set new reserves if necessary
++ Identified issues in original datasets and improved model efficiency by 40%, resulting in positive movement of over $110M towards actual value, for which got recognition award in MetLife and presented results to Global Chief Actuary
++ Maintained and ran Prophet models for quarterly asset projections for regulatory reporting for Cash Flow Testing, Loss Recognition Testing, Embedded Value Testing and Ad-hoc sensitivity tests
++ Assessed MetLife’s common stock portfolio and made projections for Common Stock assets in line with NY DFS regulatory requirements
 
-   The aim of this project is to build and train a convolutional neural network based computer vision model and deploy it as a webapp using Rshiny. This app takes images in .jpg or .png format and tells top 5 results according to trained deep learning model what does it think this bird should be, along with it's probability.
+### The Sparks Foundation (Jun 2021 - Jul 2021)
+#### Intern - Data Science and Business Analytics
++ Built a mixed machine learning model using Numerical and Textual analysis to predict stock prices
++ Analysed historical stock price data and news headlines and ran time series analysis, sentiment analysis and random forest regression algorithms
++ Achieved almost perfect fit on model which was able to explain 99.94% of variability present in data
++ Forecasted the selected stock price with less than 1.2% error
+
+<h2 align = "center">Projects </h2>
+
+### Bird identifier (R-Shiny webapp)
++ Successfully developed and deployed a live webapp which can take image input and classify best probable bird species using Convolutional Neural Network (trained over keggle dataset) with efficiency score of 92.76% on kaggle.com
++ Live Demo: [Bird Identifier App](https://vatsaldesai.shinyapps.io/bird_identifier/)
    
-   [Live Demo: Bird Identifier App](https://vatsaldesai.shinyapps.io/bird_identifier/)
-   
-+ ### Comparative analysis of most common machine learning algorithms to test their efficiency at detecting fruadulent credit card transactions
-   
-   The aim of this project is to build a classifier that can detect fraudulent credit card transactions using several machine-learning algorithms such as logistic regression, decision trees, artificial neural network and gradient boosting. In addition, determine which algorithm gives best results for given use case scenario and should be recommended in real life application using real life credit card transaction data.
-   
-   [Comparative analysis of machine learning algorithms](https://lord-dvd.github.io/CC-Fraud/)
+### Comparative Analysis of Machine Learning Algorithms
++ Programmed a classifier using Logistic regression, Decision trees, Artificial Neural Networks and Gradient Boosting and evaluated their efficiency by ROC curves to recommend best algorithm to detect fraudulent credit card transactions on kaggle credit card dataset
++ [Credit Card Fraud Classifier](https://lord-dvd.github.io/CC-Fraud/)
 
-+ ### Movie recommendation system
+### Movie recommendation system
++ Designed a preference based customized recommendation engine in R over 13k+ movies using R package "recommenderlab"
++ [Movie Recommendation System](https://lord-dvd.github.io/Movie-Recommendation/)
 
-   The aim of this project is to build a recommendation engine that recommends movies to users based on similarity in viewing patterns from similar users using Item Based Collaborative Filter using R package “recommenderlab”.
-   
-   [Movie Recommendation System](https://lord-dvd.github.io/Movie-Recommendation/)
+<h2 align="center">Skills </h2>
 
-## Skills
+| Technical skills | Programming Langugages/ Softwares |
+| :--------------: | :-------------------------------: |
+| Hypothesis Testing | R |
+| Time series analysis and forecasting | MS Excel |
+| Design of experiment and confounding | VBA |
+| Creation and fitting of GLM, GAM and PPR | Prophet |
+| Machine Learning | MySQL |
+| Web development | Python |
 
-+ ### Computer skills
-  + R Programming – Highly proficient along with knowledge of packages such as ChainLadder, markovchain, actuar, ggplot2, MASS, diagram, tensorflow, keras
-  + MS Excel – Reasonably experienced with knowledge of Vlookup, Index(…Match()),sumifs(), pivot tables , filter/sort and Data analytics tools such as Goal Seek, Solver and ANOVA
-  + MySQL – A new learner with basic knowledge of querying and creation/deletion of temporary tables and common concepts of RDBMS
-  + C programming – Moderately proficient with basic knowledge of functions, loops, arrays, pointers and file handling operations
-  + C++ programming – Moderately proficient with knowledge of polymorphism, encapsulation and other object oriented practices
-  + Python programming – Relatively new but well acquainted with basics of functions, loops, arrays and other basic data structures
+| LinkedIn Skill Assesment Badges |       |       |       |
+| :-----------------------------: | :---: | :---: | :---: |
+| C | C++ | Git | Machine Learning |
+| Microsoft Excel | Microsoft Outlook | Microsoft PowerBI | Microsoft PowerPoint |
+| MySQL | Python | R | VBA |
 
-+ ### Technical Skills
-  + Hypothesis Testing – Using t-test, F-test, Z-test, U-test, Paired t-test and Chi-Square test of goodness fit and randomness
-  + Time series analysis and forecasting
-  + Design of Experiment and Inference such as CRD, RBD, LSD, Factorial experiments and confounding
-  + Creation and fitting of General Linear Models(GLM), General Additive Models(GAM) and Project Pursuit Regression(PPR) model
-  + Machine and Deep learning using popular algorithsm such as logistic regression, decision trees, artificial neural networks, gradient boosting
+<h2 align="center">Professional Qualifications</h2>
+ 
+ + CS1 (Exam p + VEE MS), Institute and Faculty of Actuaries, UK (IFoA), Sep 2020
+ + CB 3 (Part of FAP modules), Institute of Actuaries of Actuaries, India (IAI), Aug 2018
+ + ACET (Membership Exam), Institute of Actuaries of Actuaries, India (IAI), Jan 2018
 
-+ ### LinkedIn Skill Assesment Badges
-  + C (Programming Language)
-  + Machine Learning
-  + Microsoft Excel
-  + Microsoft PowerPoint
-  + Microsoft Word
-  + MySQL
-  + Python (Programming Language)
-  + R (Programming Language)
-  + Visual Basic for Applications (VBA)
+<h2 align="center">Education</h2>
+
++ BSc - Statistics, Gujarat University,  St. Xavier's College, Jun 2021 - GPA 7.75/10.00
++ Class 12th, Gujarat Board, G K Dholakiya High School, Mar 2014 - Percentage 81.00/100.00
++ Class 10th, Gujarat Board, Divine High School, Mar 2012 - Percentage 92.60/100.00
