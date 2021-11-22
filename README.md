@@ -52,7 +52,7 @@ Vatsal is an actuarial analyst working in MetLife’s Asset-Liability Management
 <h2 align="center">Professional Qualifications</h2>
  
  + CS1 (Exam p + VEE MS), Institute and Faculty of Actuaries, UK (IFoA), Sep 2020
- + CB 3 (Part of FAP modules), Institute of Actuaries of Actuaries, India (IAI), Aug 2018
+ + CB3 (Part of FAP modules), Institute of Actuaries of Actuaries, India (IAI), Aug 2018
  + ACET (Membership Exam), Institute of Actuaries of Actuaries, India (IAI), Jan 2018
 
 <h2 align="center">Education</h2>
