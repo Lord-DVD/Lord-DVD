@@ -6,10 +6,13 @@ Vatsal is an actuarial analyst working in MetLife’s Asset-Liability Management
 
 ### MetLife (Aug 2021 - Present)
 #### Actuarial Analyst - Asset Liability Management
-+ Optimized a multiple regression based tool using R to predict credit spreads of Fixed Maturity Assets to better report AOCI in balance sheet and provide a baseline for reporting income and set new reserves if necessary
-+ Identified issues in original datasets and improved model efficiency by 40%, resulting in positive movement of over $110M towards actual value, for which got recognition award in MetLife and presented results to Global Chief Actuary
-+ Maintained and ran Prophet models for quarterly asset projections for regulatory reporting for Cash Flow Testing, Loss Recognition Testing, Embedded Value Testing and Ad-hoc sensitivity tests
-+ Assessed MetLife’s common stock portfolio and made projections for Common Stock assets in line with NY DFS regulatory requirements
++ Optimized a multiple regression-based tool using R to predict the price of Fixed Maturity Assets to better report income in the balance sheet and provide a baseline for reporting income and set new reserves if necessary
++ Identified issues in original datasets and improved model efficiency by 40%, resulting in positive movement of over $119M towards actual value, for which got recognition award in MetLife and presented results to Global Chief Actuary and Appointed Actuary for US ALM
++ Maintained and ran Prophet models for quarterly asset projections for Cash Flow Testing, Loss Recognition Testing, Embedded Value Testing and Ad-hoc sensitivity tests pertaining to NY DFS regulatory requirements
++ Wrote & Improved DCS and Python scripts to automate several processes including but not limited to Cash Flow Projections, updating/ changing Model Point Files, adding post-processing manual changes to Model Point Files and other prophet input tables
++ Participated in Global Investment Assumption Committee for MetLife in setting asset performance assumptions for structured finances with a primary focus on Private MBS and other structured finance assets such as ABS, RBMS/CMBS, CLOs/CDOs and Agency/Non-Agency CMOs
++ Lead the testing of the new ALS based asset projection Prophet model release for MetLife
++ Oversaw Azure Synapse based SQL database for data ingestion/upload errors while working as a liaison between actuarial and IT team
 
 ### The Sparks Foundation (Jun 2021 - Jul 2021)
 #### Intern - Data Science and Business Analytics
@@ -36,11 +39,11 @@ Vatsal is an actuarial analyst working in MetLife’s Asset-Liability Management
 
 | Technical skills | Programming Langugages/ Softwares |
 | :--------------: | :-------------------------------: |
-| Hypothesis Testing | R |
-| Time series analysis and forecasting | MS Excel |
-| Design of experiment and confounding | VBA |
-| Creation and fitting of GLM, GAM and PPR | Prophet |
-| Machine Learning | MySQL |
+| Hypothesis Testing | R / R Studio / R Shiny |
+| Time series analysis and forecasting | MySQL / MSSQL/ Azure Data Studio |
+| Design of experiment and confounding | Prophet / DCS / DCS Script |
+| Creation and fitting of GLM, GAM and PPR | Microsoft Excel |
+| Machine Learning | Visual Basic for Applications (VBA) |
 | Web development | Python |
 
 | LinkedIn Skill Assesment Badges |       |       |       |
