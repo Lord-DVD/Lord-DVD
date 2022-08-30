@@ -1,18 +1,18 @@
 <h1 align = "center"> Vatsal Desai </h1>
 
-Vatsal is an actuarial analyst working in MetLife’s Asset-Liability Management and Risk Reporting functions for its US region. He has passed two actuarial exams and he is member of three actuarial bodies, namely SOA, IFoA and IAI. He is proficient in Microsoft Excel and R, and has functional experience of Prophet, DCS, SQL, Python, PowerBI and Microsoft Azure Synapse. He has done his undergrad in Statistics and he is keen on learning about applications of machine learning in actuarial domain.
+Vatsal is a Statistics and Actuarial Science graduate student at SFU with over one year of corporate work experience. He has passed two actuarial exams and is a member of three actuarial bodies: SOA, IFoA and IAI. He has done his undergraduate in Statistics and is joining SFU as a TA for two subjects: Intro to Insurance Mathematics and Statistics Workshop.
 
 <h2 align = "center"> Experiences </h2>
 
 ### MetLife (Aug 2021 - Present)
-#### Actuarial Analyst - Asset Liability Management
-+ Optimized a multiple regression-based tool using R to predict the price of Fixed Maturity Assets to better report income in the balance sheet and provide a baseline for reporting income and set new reserves if necessary
+#### Actuarial Analyst - Asset Modelling Group (ALM)
++ Optimized a multiple regression-based tool using R to predict the price of Fixed Maturity Assets to better report income in the balance sheet and provide a baseline for reporting income and set new reserves pre-emptively if necessary
 + Identified issues in original datasets and improved model efficiency by 40%, resulting in positive movement of over $119M towards actual value, for which got recognition award in MetLife and presented results to Global Chief Actuary and Appointed Actuary for US ALM
 + Maintained and ran Prophet models for quarterly asset projections for Cash Flow Testing, Loss Recognition Testing, Embedded Value Testing and Ad-hoc sensitivity tests pertaining to NY DFS regulatory requirements
 + Wrote & Improved DCS and Python scripts to automate several processes including but not limited to Cash Flow Projections, updating/ changing Model Point Files, adding post-processing manual changes to Model Point Files and other prophet input tables
-+ Participated in Global Investment Assumption Committee for MetLife in setting asset performance assumptions for structured finances with a primary focus on Private MBS and other structured finance assets such as ABS, RBMS/CMBS, CLOs/CDOs and Agency/Non-Agency CMOs
-+ Lead the testing of the new ALS based asset projection Prophet model release for MetLife
-+ Oversaw Azure Synapse based SQL database for data ingestion/upload errors while working as a liaison between actuarial and IT team
++ Participated in Global Investment Assumption Committee for MetLife in setting asset performance assumptions for structured finances with a primary focus on CLOs/CDOs and other structured finance assets such as ABS, RBMS/CMBS, Private MBS and Agency/Non-Agency CMOs
++ Lead the testing of the new ALS Library-based asset projection Prophet model release for MetLife
++ Oversaw Azure Synapse-based SQL database for data ingestion/upload errors while working as a liaison between actuarial and IT teams
 
 ### The Sparks Foundation (Jun 2021 - Jul 2021)
 #### Intern - Data Science and Business Analytics
