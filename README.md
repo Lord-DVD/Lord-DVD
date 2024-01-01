@@ -5,8 +5,9 @@ Actuarial Analyst specializing in financial risk management, valuations, and sce
 Currently a graduate student of Actuarial Science at Simon Fraser University working on Collective Defined Contribution Pension Plans and benefit smoothing mechanisms.
 
 <h2 align = "center"> Experiences </h2>
-### Sun Life Financial (May 2023 - Aug 2023)
-#### Actuarial Analyst - Co-Op (Corporate Actuarial)
+  
+### Sun Life Financial (May 2023 - Aug 2023)  
+#### Actuarial Analyst - Co-Op (Corporate Actuarial)  
 + Updated VTPs (Valuation Technique Principles) with worked examples of LC (Loss Component) amortization.
 + Redesigned IFRS17 Financial Disclosure Notes clarifying accountability between Finance and Actuarial teams.
 + Revised the IFRS17 transition issue logs for Q1 2023 highlighting high risk items to be reported to senior management.
